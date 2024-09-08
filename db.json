@@ -1,0 +1,43 @@
+{
+    "cats": [
+      {
+          "id": 1,
+          "name": "Haven",
+          "image": "./assests/Haven.jpg",
+          "age": "2 years",
+          "gender": "Female",
+          "breed": "Tuxedo"
+      },
+      {
+        "id": 2,
+        "name": "Lilith",
+        "image": "./assests/Lilith.jpg",
+        "age": "6 years",
+        "gender": "Female",
+        "breed": "short hair black"
+      },
+      {
+        "id": 3,
+        "name": "Gremlin",
+        "image": "./assests/Gremlin.jpg",
+        "age": "6 years",
+        "gender": "Male",
+        "breed": "Tuxedo"
+      },
+      {
+        "id": 4,
+        "name": "Eclipse",
+        "image": "./assests/Eclipse.jpg",
+        "age": "2 years",
+        "gender": "Female",
+        "breed": "Tortoise shell tabby"
+      },
+      {
+        "id": 5,
+        "name": "Mozerella",
+        "age": "6 months",
+        "gender": "Male",
+        "breed": "Tuxedo"
+      }
+    ]
+  }

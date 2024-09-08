@@ -23,7 +23,7 @@ ahead and use a typical git workflow to make it happen:
 - Make the change on your fork, with descriptive commits in the standard format
 - Open a Pull Request against this repo
 
-A curriculum owner will review your change and approve or comment on it in due
+A curriculum owner will review your change and approve or Breed on it in due
 course.
 
 ## Why Contribute?
